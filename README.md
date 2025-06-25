@@ -1,1 +1,1 @@
-# llm-sytem-design
+# llm-system-design
