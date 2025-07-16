@@ -12,6 +12,7 @@
 ## LLM evaluation
 
 1) https://www.evidentlyai.com/llm-guide/llm-evaluation-metrics - материалы от evidently AI - очень емко, просто и структурно
+2) https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/ - книга от Evidently AI про evaluation
 
 ### RAG evaluation
 1) https://medium.com/@med.el.harchaoui/rag-evaluation-metrics-explained-a-complete-guide-dbd7a3b571a8 - Хорошее техническое описание метрик Retrieval и Generated компонент RAG
